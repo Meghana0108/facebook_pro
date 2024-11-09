@@ -1,1 +1,3 @@
-signup
+password
+username 
+email
